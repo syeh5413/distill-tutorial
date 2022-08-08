@@ -3,10 +3,10 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
+      "description": "My name is **Sam**, and I go to Hersey High School and I like playing tennis.",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-08-08T15:01:14-05:00"
+      "contents": "\nAbout the Project\n10ktf market data This project will show the data of 10ktf\nin the NFT marketplace right now.\nGoals\nThis project will have a graph showing current market data from\nOpensea\nThe graph will include sales or daily trading volume ‘“This is data\nscience”’ “~ Preceptor” [“Kane’s Free High School Data Science\nBootcamp”] (https://bootcamp.davidkane.info/)\n\n\n\n",
+      "last_modified": "2022-08-08T16:09:37-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "This is where I will describe my final project\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2022-08-08T15:01:16-05:00"
+      "last_modified": "2022-08-08T16:09:39-05:00"
     }
   ],
   "collections": []

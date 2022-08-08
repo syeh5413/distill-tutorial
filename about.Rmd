@@ -1,10 +1,22 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  My name is **Sam**, and I go to Hersey High School and I like playing tennis.
 ---
+## About the Project
+*10ktf market data*
+This project will show the data of 10ktf in the NFT marketplace right now. 
+
+### Goals
+  + This project will have a graph showing current market data from Opensea
+  + The graph will include sales or daily trading volume
+  '“This is data science”' 
+  “~ Preceptor”
+  [“Kane’s Free High School Data Science Bootcamp”]
+  (https://bootcamp.davidkane.info/)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+## About Me
 ```
 
